@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="[https://raw.githubusercontent.com/bapondas2k01/bapondas2k01/main/profile.jpg](https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#fromView=keyword&page=2&position=30&uuid=7de5d217-c97f-41b6-97d5-0af547e6fc5a&query=Computer+engineer+logo)" width="100" height="100" style="border-radius:50px; margin-right:20px;">
+  <img src="" width="100" height="100" style="border-radius:50px; margin-right:20px;">
   <strong style="font-size:30px;">🚀 Bapon Das — Software Developer & Problem Solver</strong>
 </p>
 
