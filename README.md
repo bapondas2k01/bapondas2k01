@@ -16,39 +16,40 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- Java ☕
-- JavaScript ⚡
-- TypeScript 🟦
-- Python 🐍
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+</p>
 
-### 🎨 Frontend Development
-- HTML, CSS
-- JavaFX (FXML + Scene Builder)
-- Flutter (Beginner)
+### 🎨 Frontend & App Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,flutter" />
+  <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 ### ⚙️ Tools & Technologies
-- Git & GitHub
-- NetBeans
-- VS Code
-- Phaser 3 (Game Development)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phaser-000000?style=for-the-badge&logo=phaser&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎮 Interactive Arcade Soccer Game
-- Built using Phaser 3 & TypeScript
-- Real-time gameplay with physics
-- Clean UI and responsive controls
+- Built using **Phaser 3 & TypeScript**
+- Real-time gameplay mechanics
+- Smooth UI and responsive controls
 
 ### 🎓 Student Course Registration System
-- JavaFX + Scene Builder
-- Admin panel + Student dashboard
+- Built with **JavaFX + Scene Builder**
+- Admin panel & student dashboard
 - Database integration
 
-### 📱 Upcoming Flutter Apps
-- Food Discovery App 🍔
-- Travel Planner 🌍
+### 📱 Upcoming Projects
+- 🍔 Food Discovery App (Flutter)
+- 🌍 Travel Planner App
 
 ---
 
@@ -69,7 +70,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: your-email@example.com
-- 💼 LinkedIn: (add later)
+- 💼 LinkedIn: (add your link)
 - 🌐 Portfolio: (optional)
 
 ---
