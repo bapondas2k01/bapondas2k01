@@ -1,5 +1,5 @@
 <p align="left" style="display: flex; align-items: center;">
-  <img src="https://github.com/bapondas2k01/bapondas2k01/raw/main/21004063.jpg" width="50" height="50" style="border-radius:50px; margin-right:20px;">
+  <img src="https://github.com/bapondas2k01/bapondas2k01/raw/main/21004063.jpg" width="150" height="150" style="border-radius_ova;:50px; margin-right:20px;">
   <span style="font-size:45px; font-weight: bold;">🚀 Bapon Das — Software Developer & Problem Solver</span>
 </p>
 
