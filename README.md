@@ -69,9 +69,9 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: (add your link)
-- 🌐 Portfolio: (optional)
+- 📧 Email: your-bapondas2k01@gmail.com
+- 💼 LinkedIn:(https://www.linkedin.com/in/bapon-das-5672a33a8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 🌐 Portfolio: (Hidden)
 
 ---
 
