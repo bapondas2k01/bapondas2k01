@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hi, I'm Bapon Das
 
-<!--
-**bapondas2k01/bapondas2k01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | 💻 Aspiring Software Developer | 🚀 Passionate Builder  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 Computer Science student
+- 💡 Interested in **App Development & Web Programming**
+- 🔧 Currently working on **JavaFX & Interactive Projects**
+- 📈 Always learning new technologies and improving problem-solving skills
+- ⚡ Love building real-world applications
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- Java ☕
+- JavaScript ⚡
+- TypeScript 🟦
+- Python 🐍
+
+### 🎨 Frontend Development
+- HTML, CSS
+- JavaFX (FXML + Scene Builder)
+- Flutter (Beginner)
+
+### ⚙️ Tools & Technologies
+- Git & GitHub
+- NetBeans
+- VS Code
+- Phaser 3 (Game Development)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 Interactive Arcade Soccer Game
+- Built using Phaser 3 & TypeScript
+- Real-time gameplay with physics
+- Clean UI and responsive controls
+
+### 🎓 Student Course Registration System
+- JavaFX + Scene Builder
+- Admin panel + Student dashboard
+- Database integration
+
+### 📱 Upcoming Flutter Apps
+- Food Discovery App 🍔
+- Travel Planner 🌍
+
+---
+
+## 📊 GitHub Stats
+
+![Bapon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bapondas2k01&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bapondas2k01&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bapondas2k01&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: (add later)
+- 🌐 Portfolio: (optional)
+
+---
+
+## 🎯 Goals for 2026
+- 🚀 Build 3+ real-world applications
+- 🌐 Learn full-stack web development
+- 📱 Develop production-ready Flutter apps
+- 💼 Prepare for internships
+
+---
+
+⭐️ *"Consistency beats talent when talent doesn’t work hard."*
