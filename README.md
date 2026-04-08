@@ -1,6 +1,6 @@
 <p align="left" style="display: flex; align-items: center;">
-  <img src="https://github.com/bapondas2k01/bapondas2k01/raw/main/21004063.jpg" width="150" height="150" style="border-radius_ova;:50px; margin-right:20px;">
-  <span style="font-size:45px; font-weight: bold;">🚀 Bapon Das — Software Developer & Problem Solver</span>
+  <img src="https://github.com/bapondas2k01/bapondas2k01/raw/main/21004063.jpg" width="100" height="100" style="border-radius:50px; margin-right:20px;">
+  <span style="font-size:30px; font-weight: bold;">🚀 Bapon Das — Software Developer & Problem Solver</span>
 </p>
 
 ---
@@ -9,11 +9,12 @@
 - 🎓 Computer Science Student  
 - 💻 Building real-world applications with **JavaFX, Web & App technologies**  
 - 🔧 Currently working on:
-  - 🎮 **Interactive Arcade Soccer Game** (https://github.com/bapondas2k01/FootBall-P3)
-  - 🏦 **Pension Verification App** (https://github.com/bapondas2k01/Pension_Verification)
-  - 🎓 **Student Course Registration System** (https://github.com/bapondas2k01/student-course-registration-system)
+  - 🎮 **Interactive Arcade Soccer Game** (Phaser 3 + TypeScript)  
+  - 🎓 **Student Course Registration System** (JavaFX + Scene Builder)  
+  - 🏦 **Pension Verification App** (Real-world verification & management system)  
 - 📱 Exploring **Flutter App Development**  
-- 📈 Continuously improving problem-solving & development skills  
+- 📈 Continuously improving **problem-solving & development skills**  
+- 🖥️ Passionate about coding and building software solutions  
 
 ---
 
@@ -42,23 +43,23 @@
 ## 🚀 Featured Projects
 
 ### 🏦 Pension Verification App
-- Real-world **verification & management system**
+- Real-world **verification & management system**  
 - Admin panel, data validation & workflow automation  
-👉 *(Add your repo link here)*
+👉(https://github.com/bapondas2k01/pension-verification-app)
 
 ### 🎮 Interactive Arcade Soccer Game
-- Built using **Phaser 3 & TypeScript**
+- Built using **Phaser 3 & TypeScript**  
 - Real-time gameplay with smooth UI  
-👉 *(Add your repo link here)*
+👉 [View Repo](https://github.com/bapondas2k01/interactive-arcade-soccer-game) *(replace with actual link)*
 
 ### 🎓 Student Course Registration System
-- Built with **JavaFX + Scene Builder**
+- Built with **JavaFX + Scene Builder**  
 - Admin panel & student dashboard  
-👉 *(Add your repo link here)*
+👉 [View Repo](https://github.com/bapondas2k01/student-course-registration) *(replace with actual link)*
 
 ### 📱 Upcoming Projects
 - 🍔 Food Discovery App (Flutter)  
-- 🌍 Travel Planner App 
+- 🌍 Travel Planner App  
 
 ---
 
