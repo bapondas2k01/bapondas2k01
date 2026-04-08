@@ -58,15 +58,7 @@
 
 ### 📱 Upcoming Projects
 - 🍔 Food Discovery App (Flutter)  
-- 🌍 Travel Planner App  
-
----
-
-## 📊 GitHub Stats
-
-![Bapon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bapondas2k01&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bapondas2k01&layout=compact&theme=tokyonight)
+- 🌍 Travel Planner App 
 
 ---
 
