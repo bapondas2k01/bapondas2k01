@@ -1,15 +1,19 @@
-# 👋 Hi, I'm Bapon Das
-
-🎓 CSE Student | 💻 Aspiring Software Developer | 🚀 Passionate Builder  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/bapondas2k01/bapondas2k01/main/profile.jpg" width="100" height="100" style="border-radius:50px; margin-right:20px;">
+  <strong style="font-size:30px;">🚀 Bapon Das — Software Developer & Problem Solver</strong>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Computer Science student
-- 💡 Interested in **App Development & Web Programming**
-- 🔧 Currently working on **JavaFX & Interactive Projects**
-- 📈 Always learning new technologies and improving problem-solving skills
-- ⚡ Love building real-world applications
+- 🎓 Computer Science Student  
+- 💻 Building real-world applications with **JavaFX, Web & App technologies**  
+- 🔧 Currently working on:
+  - 🎮 **Interactive Arcade Soccer Game** (Phaser 3 + TypeScript)  
+  - 🎓 **Student Course Registration System** (JavaFX + Scene Builder)  
+  - 🏦 **Pension Verification App** (Real-world verification & management system)  
+- 📱 Exploring **Flutter App Development**  
+- 📈 Continuously improving problem-solving & development skills  
 
 ---
 
@@ -37,19 +41,24 @@
 
 ## 🚀 Featured Projects
 
+### 🏦 Pension Verification App
+- Real-world **verification & management system**
+- Admin panel, data validation & workflow automation  
+👉 *(Add your repo link here)*
+
 ### 🎮 Interactive Arcade Soccer Game
 - Built using **Phaser 3 & TypeScript**
-- Real-time gameplay mechanics
-- Smooth UI and responsive controls
+- Real-time gameplay with smooth UI  
+👉 *(Add your repo link here)*
 
 ### 🎓 Student Course Registration System
 - Built with **JavaFX + Scene Builder**
-- Admin panel & student dashboard
-- Database integration
+- Admin panel & student dashboard  
+👉 *(Add your repo link here)*
 
 ### 📱 Upcoming Projects
-- 🍔 Food Discovery App (Flutter)
-- 🌍 Travel Planner App
+- 🍔 Food Discovery App (Flutter)  
+- 🌍 Travel Planner App  
 
 ---
 
@@ -69,17 +78,17 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-bapondas2k01@gmail.com
-- 💼 LinkedIn:(https://www.linkedin.com/in/bapon-das-5672a33a8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- 🌐 Portfolio: (Hidden)
+- 📧 Email: bapondas2k01@gmail.com  
+- 💼 LinkedIn: [Bapon Das](https://www.linkedin.com/in/bapon-das-5672a33a8)  
+- 🌐 Portfolio: *Hidden*
 
 ---
 
 ## 🎯 Goals for 2026
-- 🚀 Build 3+ real-world applications
-- 🌐 Learn full-stack web development
-- 📱 Develop production-ready Flutter apps
-- 💼 Prepare for internships
+- 🚀 Build 3+ real-world applications  
+- 🌐 Learn full-stack web development  
+- 📱 Develop production-ready Flutter apps  
+- 💼 Prepare for internships  
 
 ---
 
