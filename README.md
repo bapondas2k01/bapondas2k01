@@ -45,17 +45,17 @@
 ### 🏦 Pension Verification App
 - Real-world **verification & management system**  
 - Admin panel, data validation & workflow automation  
-👉(https://github.com/bapondas2k01/pension-verification-app)
+👉 https://github.com/bapondas2k01/pension-verification-app
 
 ### 🎮 Interactive Arcade Soccer Game
 - Built using **Phaser 3 & TypeScript**  
 - Real-time gameplay with smooth UI  
-👉 [View Repo](https://github.com/bapondas2k01/interactive-arcade-soccer-game) *(replace with actual link)*
+👉 https://github.com/bapondas2k01/interactive-arcade-soccer-game
 
 ### 🎓 Student Course Registration System
 - Built with **JavaFX + Scene Builder**  
 - Admin panel & student dashboard  
-👉 [View Repo](https://github.com/bapondas2k01/student-course-registration) *(replace with actual link)*
+👉 https://github.com/bapondas2k01/student-course-registration
 
 ### 📱 Upcoming Projects
 - 🍔 Food Discovery App (Flutter)  
