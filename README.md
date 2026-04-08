@@ -9,9 +9,9 @@
 - 🎓 Computer Science Student  
 - 💻 Building real-world applications with **JavaFX, Web & App technologies**  
 - 🔧 Currently working on:
-  - 🎮 **Interactive Arcade Soccer Game** ((https://github.com/bapondas2k01/FootBall-P3)t)  
-  - 🎓 **Student Course Registration System** [(https://github.com/bapondas2k01/student-course-registration-system))  
-  - 🏦 **Pension Verification App** ((https://github.com/bapondas2k01/Pension_Verification))  
+  - 🎮 **Interactive Arcade Soccer Game** (https://github.com/bapondas2k01/FootBall-P3)  
+  - 🎓 **Student Course Registration System** (https://github.com/bapondas2k01/student-course-registration-system)
+  - 🏦 **Pension Verification App** (https://github.com/bapondas2k01/Pension_Verification)
 - 📱 Exploring **Flutter App Development**  
 - 📈 Continuously improving problem-solving & development skills  
 
